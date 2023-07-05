@@ -1,0 +1,19 @@
+{
+  "name": "5_2_beta_metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "typescript": "^5.2.0-beta"
+  },
+  "dependencies": {
+    "core-js": "^3.31.0"
+  }
+}
